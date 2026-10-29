@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iwa964
 - 👀 I’m interested in game design and engineering, 3D modelling, AI
-- 💞️ I’m looking to collaborate on game production and art
 - 📫 How to reach me: inaw2006@icloud.com
 - 😄 Pronouns: She/Her
 
